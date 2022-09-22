@@ -26,3 +26,13 @@ URL do curso -> [Email Marketing Responsivo Parte 1 - Sua Newsletter Adaptável]
 * Centralizar o conteúdo de uma linha no centro
 
 ***
+
+## 02 - Cabeçalho e Ajustes Técnicos &#x1F516;
+* Ajustar o espaçamento dos textos.
+
+### 01 - Linhas e Colunas
+* Estilizar a fonte.
+* Usar `<br>` como `padding`.
+
+### 02 - Ajustes Técnicos
+* Criar espaçamentos horizontais.
