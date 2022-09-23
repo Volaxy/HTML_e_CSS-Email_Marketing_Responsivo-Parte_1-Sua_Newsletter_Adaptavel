@@ -50,3 +50,20 @@ URL do curso -> [Email Marketing Responsivo Parte 1 - Sua Newsletter Adaptável]
 
 ### 03 - Overview
 * Retirar bordas da table.
+
+***
+
+## 04 - Botão e Seção Verde &#x1F516;
+
+### 01 - Fazendo o Call to Action
+* Criar um botão com um link.
+
+### 02 - Parte Verde
+* Ajustar as pequenas seções da parte verde.
+* Criar `<table>` dentro de `<table>`.
+
+### 03 - Vantagens
+* Colocar um card do lado do outro.
+
+### 04 - Vantagens Lado a Lado
+* Criar uma linha horizontal e mudar cor da linha.
