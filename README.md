@@ -67,3 +67,10 @@ URL do curso -> [Email Marketing Responsivo Parte 1 - Sua Newsletter Adaptável]
 
 ### 04 - Vantagens Lado a Lado
 * Criar uma linha horizontal e mudar cor da linha.
+
+***
+
+## 05 - Fazendo o Rodapé &#x1F516;
+
+### 01 - Começando o Rodapé
+* Construir o rodapé do email.
