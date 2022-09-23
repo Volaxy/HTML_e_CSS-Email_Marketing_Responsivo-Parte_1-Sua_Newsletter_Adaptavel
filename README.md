@@ -36,3 +36,17 @@ URL do curso -> [Email Marketing Responsivo Parte 1 - Sua Newsletter Adaptável]
 
 ### 02 - Ajustes Técnicos
 * Criar espaçamentos horizontais.
+
+***
+
+## 03 - Fazendo o Cartão &#x1F516;
+* Entender que boas práticas de HTML e CSS em E-mail marketing responsivo não vão funcionar na maioria dos browsers.
+
+### 01 - Codificando o Cartão
+* Começar a fazer o layout do cartão personalizado.
+
+### 02 - Nome no Cartão
+* Centralizar o texto no centro de acordo com o background.
+
+### 03 - Overview
+* Retirar bordas da table.
